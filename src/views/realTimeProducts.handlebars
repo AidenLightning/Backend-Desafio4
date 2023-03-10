@@ -1,0 +1,27 @@
+<div>
+    <h1 class="text-center" >Bienvenido a la pagina de {{nombre}} </h1>
+
+<div id="realtime-products" class="container mt-4">
+
+  <form id="form" class="form col-md-12 text-center" action="/api/products" method="POST">
+    <input class="form-control mb-3" type="text" id="title" placeholder="Title" />
+    <input class="form-control mb-3" type="text" id="description" placeholder="Description" />
+    <input class="form-control mb-3" type="text" id="code" placeholder="Code" />
+    <input class="form-control mb-3" type="text" id="stock" placeholder="Stock" />
+    <input class="form-control mb-3" type="text" id="category" placeholder="Category" />
+    <input class="form-control mb-3" type="text" id="price" placeholder="Price" />
+    <div class="d-flex justify-content-center">
+      <button id="submit" class="btn btn-success">Agregar</button>
+    </div>
+  </form>
+  
+  <hr class="my-4" />
+
+  <div id="cards-container" class="container-fluid row"></div>
+
+</div>
+
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/script.js"></script>

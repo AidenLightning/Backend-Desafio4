@@ -1,0 +1,112 @@
+[
+   {
+      "title": "Gibson LP",
+      "description": "Gibson Les Paul Standard",
+      "price": 2700,
+      "category": "Guitar",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-82__f-webp__ha-1359f5921d463511__hmac-fac5c0ec53ac524ebe618da127a278a7c293f1e3/images/guitars/LPS6B8NH/222020209/222020209-body-large.jpg.auto.webp",
+      "code": 10,
+      "stock": 5,
+      "id": 1
+   },
+   {
+      "title": "Gibson LP",
+      "description": "Gibson Les Paul Classic",
+      "price": 2200,
+      "category": "Guitar",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-2787f70697e5b13b__hmac-d30e71130334ec1dbb452dc257c346d981f8e4f1/images/guitars/LPCLSWSMB/223020105/223020105-body-xlarge.jpg.auto.webp",
+      "code": 11,
+      "stock": 4,
+      "id": 2
+   },
+   {
+      "title": "Mesa/Boogie Guitar Amp",
+      "description": "Mesa/Boogie JP-2C Mark IIC+ John Petrucci",
+      "price": 3349,
+      "category": "Guitar Amp",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-e5b80f93f6eb10bc__hmac-838dc7f6c251eb05d599cb160941fa43e5a23930/images/items/1800/JP-2C-xlarge.jpg.auto.webp",
+      "code": 12,
+      "stock": 4,
+      "id": 3
+   },
+   {
+      "title": "Orange Guitar Amp",
+      "description": "Orange Rockverb 50 MKIII",
+      "price": 2149,
+      "category": "Guitar Amp",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-07179f6eaf252f04__hmac-dbfe1f3c4a298316b3ba3d0a900f5424d11bec56/images/items/1800/Rockerv503H-xlarge.jpg.auto.webp",
+      "code": 13,
+      "stock": 3,
+      "id": 4
+   },
+   {
+      "title": "Egnater Guitar Amp",
+      "description": "Egnater Rebel-30 MKII",
+      "price": 1099,
+      "category": "Guitar Amp",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-cd6d6a07fefd311f__hmac-b01534e650a1fd81787b9a2e705a222c76479626/images/items/1800/Rebel30MkII-xlarge.jpg.auto.webp",
+      "code": 14,
+      "stock": 5,
+      "id": 5
+   },
+   {
+      "title": "Fender ST",
+      "description": "Fender American Professional II Stratocaster",
+      "price": 1799,
+      "category": "Guitar",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-82__f-webp__ha-7862e5b24f68d5a5__hmac-2485a2fb68630cca051815974cfdcdd6f2b0b25a/images/guitars/StratAP2RRP/US22143644/US22143644-body-large.jpg.auto.webp",
+      "code": 15,
+      "stock": 2,
+      "id": 6
+   },
+   {
+      "title": "Music Man JP",
+      "description": "Ernie Ball Music Man JP15",
+      "price": 3599,
+      "category": "Guitar",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-67d4cc75a1465730__hmac-bad45cc358fb60becd78a56d996f3b38db42216b/images/items/1800/JP15Flame6-xlarge.jpg.auto.webp",
+      "code": 16,
+      "stock": 1,
+      "id": 7
+   },
+   {
+      "title": "PRS Custom 24",
+      "description": "PRS Custom 24-08 McCarty Sunburst",
+      "price": 4310,
+      "category": "Guitar",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-4c2d618f7451b3a7__hmac-fed1c4c4b711981d4427431c74cb37f76d4c0c3c/images/items/1800/CU2408MCS-xlarge.jpg.auto.webp",
+      "code": 17,
+      "stock": 2,
+      "id": 8
+   },
+   {
+      "title": "Neural DSP",
+      "description": "Neural DSP Quad Cortex Effects Modeler/Profiling",
+      "price": 1849,
+      "category": "Effects",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-8e7835557a9e4464__hmac-3512a312444e491a63de0c77fe9e9b1fc897bdb1/images/items/1800/QuadCortex-xlarge.jpg.auto.webp",
+      "code": 18,
+      "stock": 6,
+      "id": 9
+   },
+   {
+      "title": "Behringer Poly D",
+      "description": "Behringer Poly D Polyphonic Analog Synthesizer",
+      "price": 689,
+      "category": "Synth",
+      "thumbnail": "https://media.sweetwater.com/api/i/q-85__f-webp__ha-7a126aebfc168f11__hmac-34cc4f4f4cdf65ea129c28e857a96f812177d307/store/enhanced/items/BehrPolyD/811065-BehrPolyD_detail2.jpg.auto.webp",
+      "code": 19,
+      "stock": 3,
+      "id": 10
+   },
+   {
+      "title": "Focusrite Audio Interface",
+      "description": "Focusrite Scarlett 18i20 3rd Gen USB Audio Interface",
+      "price": 549,
+      "category": "Interface",
+      "thumbnail": "https://store.focusrite.com/images/products/large/MOSC0029UK_1.png",
+      "code": 20,
+      "stock": 7,
+      "id": 11
+   }
+]
